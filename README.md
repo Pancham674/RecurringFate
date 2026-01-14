@@ -30,7 +30,7 @@ In the settings, you can save the created entries in a JSON file and reload them
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/PPahl04/RecurringFate.git
+   git clone https://github.com/Pancham674/RecurringFate.git
    cd "Recurring Fate"
 
 2. Start program
